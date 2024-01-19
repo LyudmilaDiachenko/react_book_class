@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(https://celes.club/uploads/posts/2022-11/1667255209_2-celes-club-p-krasivii-igrovoi-fon-krasivo-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img_container{
+    display: flex;
+}
+a{
+    text-decoration: none;
+    color: #333;
+}
+a:hover{
+    text-decoration: underline;
+}
